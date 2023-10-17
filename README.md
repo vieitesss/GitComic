@@ -74,6 +74,8 @@ Here's a list of some more icons you can find.
 
 ## Getting started
 
+### Dependencies
+
 First of all, you'll need to install the dependencies.
 
 The script is intended to be used with <a href="https://github.com/tmux/tmux" target="_blank">tmux</a>, so if you're not familiar with it or are hesitant to use it, here's a <a href="https://www.youtube.com/watch?v=DzNmUNvnB04" target="_blank">video</a> that explains how to get started. You can also check out my own tmux configuration <a href="https://github.com/vieitesss/.mac_config/tree/main/tmux" target="_blank">here</a>.
@@ -82,6 +84,8 @@ The script is intended to be used with <a href="https://github.com/tmux/tmux" ta
 The second and final dependency is <a href="https://github.com/junegunn/fzf" target="_blank">fzf</a>, a widely known command that allows you to select one or multiple options from various entries using advanced regular expressions.
 
 Just follow the guides in the provided links to install both commands.
+
+### Installation
 
 Once you have the dependencies installed, here comes the best part.
 
