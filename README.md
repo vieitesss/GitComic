@@ -94,8 +94,8 @@ git clone https://github.com/vieitesss/GitComic.git
 2. Execute the following commands.
 
 ```shell
-cp -r Gitcomic/gitcomic /usr/local/opt/
-ln -s /usr/local/opt/gitcomic/gitcomic.sh /usr/local/bin/gitcomic
+sudo cp -r Gitcomic/gitcomic /usr/local/opt/
+sudo ln -s /usr/local/opt/gitcomic/gitcomic.sh /usr/local/bin/gitcomic
 ```
 
 3. Delete the repository.
