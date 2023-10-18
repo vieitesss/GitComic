@@ -1,5 +1,9 @@
 # GitComic 💥
 
+
+https://github.com/vieitesss/GitComic/assets/60654781/25b82cd2-2636-4c12-a830-c0f59ee75d62
+
+
 This script allows you to insert an icon depending on the type of updates you have made in your code.
 
 If you want to start organizing your commits better and make them visually appealing, you're in the right place. I present you GitComic (Git Commit Icons).
