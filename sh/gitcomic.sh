@@ -2,7 +2,7 @@
 
 SCRIPT_DIRNAME=$(dirname $(realpath "$0"))
 
-icons_file="$SCRIPT_DIRNAME/icons.txt"
+icons_file="$SCRIPT_DIRNAME/../assets/icons.txt"
 session="$(tmux list-sessions | grep attached | sed 's/:.*//')"
 window="$(tmux list-windows | grep active | sed 's/:.*//')"
 pane="$(tmux list-panes | grep active | sed 's/:.*//')"
