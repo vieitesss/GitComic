@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/gitcomic/__init__.py
+src/gitcomic/gitcomic.py
+src/gitcomic.egg-info/PKG-INFO
+src/gitcomic.egg-info/SOURCES.txt
+src/gitcomic.egg-info/dependency_links.txt
+src/gitcomic.egg-info/top_level.txt
